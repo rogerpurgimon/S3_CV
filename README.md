@@ -8,7 +8,7 @@ If you already have all the 'mandanga' run the task1.py script with the followin
   - format: webm (vp8 and vp9), mp4 (h265), mkv(av1)
  
   And remember to put all the videos in the same directory as the scripts.
-  When you run the script press `y`to execute the exercise. Then you can choose between 4 resolutions. Press (1,2,3,4).
+  When you run the script press `y` to execute the exercise. Then you can choose between 4 resolutions. Press `1/2/3/4`.
   
 If you want to run the application from the BBB 10 minute video (full process), name this file bbb.mp4 and uncomment the indicated lines in the script.
 

@@ -19,7 +19,7 @@ First, when you run the task2.py file, the program will ask to execute the exerc
 Eventually, when the interface is shown on your screen, first, select the video resolution and then click on the codec you wish to convert your video.
 
 ## Results comments:
-If we stop the video at 0:19, which coincides with a scene with multiple objects and have a lot of detail, we will notice some differences, for exemple, between VP8 and VP9, the sharpness of the reflected light on the rocks. In general all codecs outperfeforms the VP8 in terms of quality, even though, av1 encoding is so slow...
+If we stop the video at 0:19, which coincides with a scene with multiple objects and have a lot of detail, we will notice some differences, for exemple, between VP8 and VP9, the sharpness of the reflected light on the rocks. In general all codecs outperforms the VP8 in terms of quality, even though, av1 encoding is so slow...
 
 
 

@@ -12,7 +12,7 @@ If you already have all the 'mandanga' run the task1.py script with the followin
   
 If you want to run the application from the BBB 10 minute video (full process), name this file bbb.mp4 and uncomment the indicated lines in the script.
 
-##Task2
+## Task2
 This exercise aims to be a video converter.
 First, when you run the task2.py file, the program will ask to execute the exercise 1. If you have already executed the first task just press `ǹ`.
 Eventually, when the interface is shown on your screen, first, select the video resolution and then click on the codec you wish to convert your video.
